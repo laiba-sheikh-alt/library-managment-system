@@ -1,0 +1,6 @@
+123bookid,Namal,Nimra ahmed,available,book
+12,mala,nimra,issued,book
+12bd,rasti,rasti batool,available,article
+2bk,halim,nimra,available,book
+3bk,bakht,zanib,available,book
+4bk,peer-e-kamal,laiba,available,book
